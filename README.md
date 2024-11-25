@@ -8,14 +8,6 @@ This project implements a neural network using Keras to predict the compressive 
 - **Objective**: Predict concrete strength using a dataset of material properties.
 - **Dataset**: The dataset includes cement, slag, fly ash, water, superplasticizer, coarse aggregate, fine aggregate, and the age of concrete samples.
 
-## Installation
-
-To run this project, install the required dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Dataset
 
 The dataset used in this project is sourced from [Cognitive Class](https://cognitiveclass.ai/). It contains the following columns:
